@@ -2,6 +2,9 @@
 
 > calculator application with vue js
 
+![vue-cli-calc](https://user-images.githubusercontent.com/29349064/74100675-c9532d00-4b5b-11ea-8709-8436f927e3f4.png)
+
+
 ## Build Setup
 
 ``` bash
